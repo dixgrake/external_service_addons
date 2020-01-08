@@ -2,7 +2,7 @@
 <odoo noupdate="1">
 
     <record id="ir_cron_currency_update" model="ir.cron">
-        <field name="name">[CURRENCY] Update l10n_do banks currency</field>
+        <field name="name">[CURRENCY] Update l10n_do Banks Currency</field>
         <field name="interval_number">1</field>
         <field name="interval_type">days</field>
         <field name="state">code</field>
